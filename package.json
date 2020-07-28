@@ -4,7 +4,8 @@
   "description": "## Abstract > This application can be used to write, save, delete notes. This application use an express backend and save and retrieve note data from a JSON file.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
