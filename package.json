@@ -1,0 +1,19 @@
+{
+  "name": "homework11",
+  "version": "1.0.0",
+  "description": "## Abstract > This application can be used to write, save, delete notes. This application use an express backend and save and retrieve note data from a JSON file.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smggg/homework11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smggg/homework11/issues"
+  },
+  "homepage": "https://github.com/smggg/homework11#readme"
+}
